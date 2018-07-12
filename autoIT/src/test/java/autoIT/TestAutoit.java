@@ -24,5 +24,6 @@ public void test() throws Exception
      System.out.println("local");
 
 	  System.out.println("Git");
+	  System.out.println("Git1");
 }
 }
