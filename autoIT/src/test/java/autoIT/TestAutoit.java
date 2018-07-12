@@ -24,7 +24,10 @@ public void test() throws Exception
      System.out.println("local");
 
 	  System.out.println("Git");
+<<<<<<< HEAD
 	  System.out.println("local1");
+=======
+>>>>>>> branch 'master' of https://github.com/singhdeepa/AutoIT.git
 	  System.out.println("Git1");
 }
 }
